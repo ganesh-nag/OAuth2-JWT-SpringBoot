@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# OAuth2-JWT-SpringBoot
-=======
 #OAuth2-JWT-SpringBoot
 
->>>>>>> 9c76b5d56ce5682e33c815dbf3230bf047d48c06
 Explains OAuth2 authorization using JWT in Spring Boot
 
 @author Ganesh Nagalingam
